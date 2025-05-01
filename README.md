@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 <!--
 **Minalg7/minalg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
