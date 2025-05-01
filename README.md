@@ -1,5 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
+<h1>Hi, I'm Sabrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h1>
+
 <!--
 **Minalg7/minalg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
