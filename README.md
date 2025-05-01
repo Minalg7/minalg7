@@ -1,10 +1,10 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="img/banner_linkedin.png" alt="GitHub Banner" width="100%" />
 
 <h1>Hi, I'm Sabrina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"</h1>
 
 <p align="center">
-	<a href="https://github.com/Minalg7/"><img src="github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sabrina-le-gall/"><img src="linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/Minalg7/"><img src="img/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sabrina-le-gall/"><img src="img/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ## Tech Stack 👩‍💻
@@ -25,7 +25,60 @@
                     <a href="https://www.figma.com/proto/E7geKCUdgUiwpZUcZmlw1i/Mariage-St%25C3%25A9phie---Alain---2024-2025?node-id=212-3&p=f&t=oazQcRtjzYGbNXtp-0&scaling=min-zoom&content-scaling=fixed&page-id=212%3A2&starting-point-node-id=293%3A68" target="_blank" rel="noreferrer"> Wedding Website 👰​</a>
                 </h3>
                 <p align="center">
-                    <a href="https://www.figma.com/proto/E7geKCUdgUiwpZUcZmlw1i/Mariage-St%25C3%25A9phie---Alain---2024-2025?node-id=212-3&p=f&t=oazQcRtjzYGbNXtp-0&scaling=min-zoom&content-scaling=fixed&page-id=212%3A2&starting-point-node-id=293%3A68" target="_blank" rel="noreferrer"> <img src=""/> </a>
+                    <a href="https://www.figma.com/proto/E7geKCUdgUiwpZUcZmlw1i/Mariage-St%25C3%25A9phie---Alain---2024-2025?node-id=212-3&p=f&t=oazQcRtjzYGbNXtp-0&scaling=min-zoom&content-scaling=fixed&page-id=212%3A2&starting-point-node-id=293%3A68" target="_blank" rel="noreferrer"> <img src="img/mockup-plein-mariage-site.png" width="400px"/> </a>
+                    <p align="center">
+                        ...
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						...
+					</details>
+            </p>
+            </td>
+   	<td width="50%">
+                <h3 align="center">
+                    <a href="https://aquaticspeciesong.org/" target="_blank" rel="noreferrer"> Aquatic Species Website 🦈​​</a>
+                </h3>
+                <p align="center">
+                    <a href="https://aquaticspeciesong.org/" target="_blank" rel="noreferrer"> <img src="img/miniature-aquatic-species.png" width="400px"/> </a>
+                    <p align="center">
+                        ...
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						...
+					</details>
+            </p>
+            </td>
+        </tr>
+	  <tr>
+            <td width="50%">
+                <h3 align="center">
+                    <a href="https://www.figma.com/proto/lguaR7blOLNScdThs0KoMN/Projet-ASUL?node-id=23-19&starting-point-node-id=23%3A19" target="_blank" rel="noreferrer"> ASUL Prototype 🏸​</a>
+                </h3>
+                <p align="center">
+                    <a href="https://www.figma.com/proto/lguaR7blOLNScdThs0KoMN/Projet-ASUL?node-id=23-19&starting-point-node-id=23%3A19" target="_blank" rel="noreferrer"> <img src="img/miniature-asul.png" width="400px"/> </a>
+                    <p align="center">
+                        ...
+                    </p>
+					<details>
+						<summary>
+						<b>Note 📝</b>
+						</summary>
+						...
+					</details>
+            </p>
+            </td>
+   	<td width="50%">
+                <h3 align="center">
+                    <a href="https://www.photonics-bretagne.com/" target="_blank" rel="noreferrer"> Photonics Bretagne Website 💡​​​</a>
+                </h3>
+                <p align="center">
+                    <a href="https://www.photonics-bretagne.com/" target="_blank" rel="noreferrer"> <img src="img/miniature-photonics-bretagne.png" width="400px"/> </a>
                     <p align="center">
                         ...
                     </p>
