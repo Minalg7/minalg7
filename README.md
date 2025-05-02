@@ -8,6 +8,7 @@
 ​​🌌 I create websites and applications in my free time to stay consistent.<br/>
 ✨ Find all my projects in my [portfolio](https://minalg.fr/)!
 
+<br/>
 <p align="center">
 	<a href="https://github.com/Minalg7/"><img src="img/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sabrina-le-gall/"><img src="img/linkedin.png" alt="LinkedIn"/></a>
